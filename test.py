@@ -1,4 +1,4 @@
 print('hello world')
-print('hello from ngt7')
-test = 'hello from variable'
+print('hello from Nicolas')
+test = 'hello from variable and Nicolas'
 print(test)
